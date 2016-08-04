@@ -1,0 +1,33 @@
+_repo: Fisherman-s-Luck-and-Some-Other-Uncertain-Things_1139
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Van Dyke, Henry
+    aliases:
+    - Dyke, Henry Jackson Van
+    - Dyke, Henry I. Van
+    - Dyke, Henry Van
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '362'
+    url: http://www.gutenberg.org/2009/agents/362
+    wikipedia: http://en.wikipedia.org/wiki/Henry_van_Dyke
+description: ''
+gutenberg_issued: '1997-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1139'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fishing'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Fisherman's luck -- The thrilling moment -- Talkability -- A wild
+  strawberry -- Lovers and landscape -- A fatal success -- Fishing in books -- A Norwegian
+  honeymoon -- Who owns the mountains? -- A lazy, idle brook -- The open fire -- A
+  slumber song for the fisherman's child.
+title: Fisherman's Luck and Some Other Uncertain Things
+url: http://www.gutenberg.org/ebooks/1139
